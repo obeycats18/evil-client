@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/obeycats18/evil-client.git/static/css/main.b7a63f8f.chunk.css",
+    "main.js": "/obeycats18/evil-client.git/static/js/main.77d82139.chunk.js",
+    "main.js.map": "/obeycats18/evil-client.git/static/js/main.77d82139.chunk.js.map",
+    "runtime-main.js": "/obeycats18/evil-client.git/static/js/runtime-main.cd0f718a.js",
+    "runtime-main.js.map": "/obeycats18/evil-client.git/static/js/runtime-main.cd0f718a.js.map",
+    "static/js/2.99336df2.chunk.js": "/obeycats18/evil-client.git/static/js/2.99336df2.chunk.js",
+    "static/js/2.99336df2.chunk.js.map": "/obeycats18/evil-client.git/static/js/2.99336df2.chunk.js.map",
+    "index.html": "/obeycats18/evil-client.git/index.html",
+    "static/css/main.b7a63f8f.chunk.css.map": "/obeycats18/evil-client.git/static/css/main.b7a63f8f.chunk.css.map",
+    "static/js/2.99336df2.chunk.js.LICENSE.txt": "/obeycats18/evil-client.git/static/js/2.99336df2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd0f718a.js",
+    "static/js/2.99336df2.chunk.js",
+    "static/css/main.b7a63f8f.chunk.css",
+    "static/js/main.77d82139.chunk.js"
+  ]
+}
